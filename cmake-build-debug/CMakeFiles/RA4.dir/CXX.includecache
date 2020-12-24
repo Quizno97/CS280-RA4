@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tyrre/CLionProjects/RA4/io.cpp
+lex.h
+C:/Users/tyrre/CLionProjects/RA4/lex.h
+map
+-
+
+C:/Users/tyrre/CLionProjects/RA4/lex.h
+string
+-
+iostream
+-
+
+C:/Users/tyrre/CLionProjects/RA4/tokensListing.cpp
+iostream
+-
+lex.h
+C:/Users/tyrre/CLionProjects/RA4/lex.h
+io.cpp
+C:/Users/tyrre/CLionProjects/RA4/io.cpp
+cctype
+-
+map
+-
+
